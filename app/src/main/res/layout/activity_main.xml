@@ -91,10 +91,10 @@
         android:text="Diskon harus 45 - 75%"
         android:id="@+id/WarningText"
         android:textColor="#FF0000"
+        android:layout_marginLeft="27dp"
+        android:layout_marginStart="27dp"
         android:layout_above="@+id/textView4"
         android:layout_toRightOf="@+id/textView3"
-        android:layout_toEndOf="@+id/textView3"
-        android:layout_marginLeft="29dp"
-        android:layout_marginStart="29dp" />
+        android:layout_toEndOf="@+id/textView3" />
 
 </RelativeLayout>
